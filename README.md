@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **react pojects**
 
 - 🌱 I’m currently learning **react**
-
+- 💬 Ask me about ... Anything
 - 📫 How to reach me **aswinanand66@gmail.com**
 - 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I enjoy Hiking/swimming/playing cricket
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
