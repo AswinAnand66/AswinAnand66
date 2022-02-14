@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
 -->
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/AswinAnand66/AswinAnand66/blob/main/readme.gif?raw=true" width="500" height="320" />
 <h1 align="center">Hi 👋, I'm Aswin Anandh</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
