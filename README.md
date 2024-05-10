@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aswin Anandh</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Angular pojects**
+- 🔭 I’m currently working on **Angular projects**
 
 - 🌱 I’m currently learning **Angular, SQL**
 - 💬 Ask me about ... Anything
