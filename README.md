@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Angular projects**
 
 - 🌱 I’m currently learning **Angular, SQL**
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... Tech
 - 📫 How to reach me **aswinanand66@gmail.com**
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I enjoy Hiking/swimming/playing cricket
