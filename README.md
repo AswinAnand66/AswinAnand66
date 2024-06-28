@@ -11,6 +11,7 @@
 - ⚡ Fun fact: ... I enjoy Hiking/swimming/playing cricket
 
 <h3 align="left"> 🔁 Connect with me 🔁</h3>
+<br>
 <p align="left">
  <a href="https://www.linkedin.com/in/aswinanand66" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
  <a href="https://www.linkedin.com/in/aswinanand66" target="blank"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -18,6 +19,7 @@
 </p>
 
 <h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<br>
 <p align="left"> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" /></a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" /></a> 
@@ -37,8 +39,6 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" /></a> 
 </p>
 
-[![Aswin Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AswinAnand66&bg_color=e7e4e7&color=0f71f0&line=4a494b&point=020b31&area=true&hide_border=true)](https://github.com/AswinAnand66/github-readme-activity-graph)
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
@@ -47,3 +47,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinanand66&layout=compact" alt="top langs" />
 </div>
+
+[![Aswin Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AswinAnand66&bg_color=e7e4e7&color=0f71f0&line=4a494b&point=020b31&area=true&hide_border=true)](https://github.com/AswinAnand66/github-readme-activity-graph)
+
