@@ -13,8 +13,8 @@
 <h3 align="left"> 🔁 Connect with me 🔁</h3>
 <br>
 <p align="left">
- <a href="https://www.linkedin.com/in/aswinanand66" ><img src="https://skillicons.dev/icons?i=linkedin" /></a>
- <a href="mailto:aswinanand66@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
+ <a href="https://www.linkedin.com/in/aswinanand66"  target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ <a href="mailto:aswinanand66@gmail.com"  target="blank"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
  <a href="https://www.instagram.com/aswinanand26/" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
