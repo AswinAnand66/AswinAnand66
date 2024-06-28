@@ -7,19 +7,35 @@
 
 - 🌱 I’m currently learning **Angular, SQL**
 - 💬 Ask me about ... Tech
-- 📫 How to reach me **aswinanand66@gmail.com**
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I enjoy Hiking/swimming/playing cricket
 
 <h3 align="left"> 🔁 Connect with me 🔁</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aswinanand66" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ <a href="https://www.linkedin.com/in/aswinanand66" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
  <a href="https://www.linkedin.com/in/aswinanand66" target="blank"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/aswinanand26/" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
+ <a href="https://www.instagram.com/aswinanand26/" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" /></a> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" /></a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" /></a> 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" /></a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" /></a> 
+ <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" /></a> 
+ <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" /></a> 
+ <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" /></a> 
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /> </a> 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" /></a> 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" /></a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" /></a> 
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" /></a> 
+ <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" /></a> 
+ <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" /></a> 
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" /></a> 
+</p>
 
 [![Aswin Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AswinAnand66&bg_color=e7e4e7&color=0f71f0&line=4a494b&point=020b31&area=true&hide_border=true)](https://github.com/AswinAnand66/github-readme-activity-graph)
 
