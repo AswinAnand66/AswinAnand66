@@ -27,8 +27,8 @@
  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" /></a> 
  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" /></a> 
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" /></a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" /></a> 
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /></a> 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express"/></a> 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" /></a> 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" /></a> 
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" /></a> 
