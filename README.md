@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Angular projects**
 
-- 🌱 I’m currently learning **Angular, SQL**
+- 🌱 I’m currently learning **AI, LLMs, NLP**
 - 💬 Ask me about ... Tech
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I enjoy Hiking/swimming/playing cricket
