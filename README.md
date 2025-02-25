@@ -18,26 +18,73 @@
  <a href="https://www.instagram.com/aswinanand26/" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
-<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<br>
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" /></a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" /></a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" /></a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" /></a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" /></a> 
- <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" /></a> 
- <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" /></a> 
- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" /></a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /></a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express"/></a> 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py"/></a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" /></a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" /></a> 
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" /></a> 
- <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" /></a> 
- <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" /></a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" /></a> 
+<h3 align="left">📚 Technologies I Use 📚</h3>
+<!-- Languages -->
+<h4 align="left">💻 Programming Languages 💻</h4>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+</p>
+<!-- Frameworks & Libraries -->
+<h4 align="left">⚛️ Frameworks & Libraries ⚛️</h4>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="react"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=angular" alt="angular"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="express"/>
+  </a>
+</p>
+<!-- Databases -->
+<h4 align="left">🛢️ Databases 🛢️</h4>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/>
+  </a>
+</p>
+<!-- Tools & Platforms -->
+<h4 align="left">🛠️ Tools & Platforms 🛠️</h4>
+<p align="left">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>
+  </a>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
