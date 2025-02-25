@@ -13,9 +13,9 @@
 <h3 align="left"> 🔁 Connect with me 🔁</h3>
 <br>
 <p align="left">
- <a href="https://www.linkedin.com/in/aswinanand66"  target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;
- <a href="mailto:aswinanand66@gmail.com"  target="blank"> <img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/aswinanand26/" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
+ <a href="https://www.linkedin.com/in/aswinanand66"  target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;
+ <a href="mailto:aswinanand66@gmail.com"  target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/aswinanand26/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <h3 align="left">📚 Technologies I Use 📚</h3>
