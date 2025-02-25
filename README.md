@@ -13,8 +13,8 @@
 <h3 align="left"> 🔁 Connect with me 🔁</h3>
 <br>
 <p align="left">
- <a href="https://www.linkedin.com/in/aswinanand66"  target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
- <a href="mailto:aswinanand66@gmail.com"  target="blank"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
+ <a href="https://www.linkedin.com/in/aswinanand66"  target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;
+ <a href="mailto:aswinanand66@gmail.com"  target="blank"> <img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/aswinanand26/" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
@@ -24,22 +24,22 @@
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 <!-- Frameworks & Libraries -->
 <h4 align="left">⚛️ Frameworks & Libraries ⚛️</h4>
@@ -61,7 +61,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=express" alt="express"/>
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 <!-- Databases -->
 <h4 align="left">🛢️ Databases 🛢️</h4>
@@ -74,7 +74,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/>
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 <!-- Tools & Platforms -->
 <h4 align="left">🛠️ Tools & Platforms 🛠️</h4>
@@ -84,7 +84,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
